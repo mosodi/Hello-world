@@ -1,2 +1,2 @@
 # demo-repo
-Demo for Github
+Trying to make a demo repo in my Github journey
